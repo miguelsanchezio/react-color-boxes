@@ -1,0 +1,7 @@
+.ColorBoxes {
+    max-width: 50rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0.5rem;
+    margin: 3rem auto;
+}
